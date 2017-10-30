@@ -1,0 +1,77 @@
+#formulario{
+    
+    padding: 20px;
+}
+#image{
+    
+    width: 100%;  
+    margin:  5px  1px  ;     
+    height: 600px;
+    
+    
+    
+}
+.footer{
+   text-justify: auto;
+   text-align: right;
+   text-align-last: center;
+   background-color: silver; 
+   position:  static;
+    bottom:0%;
+    width:100%;
+    margin-top: 250px;
+}
+#formu{
+    width: 70%;  
+    margin: 70px;  
+    height: 200px;
+
+    width: 800px;
+}
+#divlabel{
+   
+    padding: 10px;
+}
+.cadastro{
+    margin: auto;
+    float: none ;
+   
+}
+
+#back{
+    
+    background-color: #c7ddef;
+    margin-left: 10px;
+   width: 100%;
+   margin-top: 10px;
+}
+#buton{
+    width: 50%;
+    float: none;
+    margin: auto;  
+    margin-top: 50px;
+    
+   
+   
+    
+   
+}
+.table-striped{
+    float: none;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+#butonclass{
+    margin: auto;
+    margin-top: 30px;
+}
+#footer{
+   text-justify: auto;
+   text-align: right;
+   text-align-last: center;
+   background-color: silver; 
+   position:  static;
+    bottom:0%;
+    width:100%;
+}
